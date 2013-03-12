@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+provisioning_profiles/development/05617937-0997-474C-8193-5B200649269A/appid=de.zhapps.ffanapp
+provisioning_profiles/development/05617937-0997-474C-8193-5B200649269A/name=Marcus Test Devs Profile
+provisioning_profiles/development/05617937-0997-474C-8193-5B200649269A/uuid=05617937-0997-474C-8193-5B200649269A
+provisioning_profiles/development/25EF1C37-EEB6-4FA0-B611-5F117A6B5629/appid=*
+provisioning_profiles/development/25EF1C37-EEB6-4FA0-B611-5F117A6B5629/name=Development Profile
+provisioning_profiles/development/25EF1C37-EEB6-4FA0-B611-5F117A6B5629/uuid=25EF1C37-EEB6-4FA0-B611-5F117A6B5629
+provisioning_profiles/development/81325B58-A7F3-41A5-9152-946C9F76890E/appid=de.zahlenhelfer.pushtest
+provisioning_profiles/development/81325B58-A7F3-41A5-9152-946C9F76890E/name=Push Test
+provisioning_profiles/development/81325B58-A7F3-41A5-9152-946C9F76890E/uuid=81325B58-A7F3-41A5-9152-946C9F76890E
+provisioning_profiles/development/C7E9C704-42D8-425B-AB23-11841C74B0EF/appid=*
+provisioning_profiles/development/C7E9C704-42D8-425B-AB23-11841C74B0EF/name=iOS Team Provisioning Profile\: Wildcard AppID
+provisioning_profiles/development/C7E9C704-42D8-425B-AB23-11841C74B0EF/uuid=C7E9C704-42D8-425B-AB23-11841C74B0EF
+provisioning_profiles/development/D18BEFC3-80A3-42A3-A3DD-1D28D73F41D9/appid=de.zahlenhelfer.sktest
+provisioning_profiles/development/D18BEFC3-80A3-42A3-A3DD-1D28D73F41D9/name=StoreKit Test
+provisioning_profiles/development/D18BEFC3-80A3-42A3-A3DD-1D28D73F41D9/uuid=D18BEFC3-80A3-42A3-A3DD-1D28D73F41D9
